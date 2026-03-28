@@ -45,16 +45,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 28, 2026, 2:29 PM]
+**What I did**: create github Account
 
-**Details**: 
+**Details**: frist i entered the link that doctor gave me then i went to login i put my university email and username then  i join to github
 
-**Challenges**: 
+**Challenges**: not big Challenges but maybe in the password every time i put password they use
 
-**Solution**: 
+**Solution**: i thought of a difficult password
 
-**Time spent**: 
+**Time spent**: maybe 20 min or 30
 
 ---
 
