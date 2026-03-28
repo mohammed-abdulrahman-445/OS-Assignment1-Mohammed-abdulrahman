@@ -32,16 +32,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 28, 2026, 2:18 PM]
+**What I did**: i added counter to track the number of context switches
 
-**Details**: 
+**Details**: i added counter to track the number of context switches,the counter increases each time new process start exection
 
-**Challenges**: 
+**Challenges**: i had problem at first i forgot the meaning of context switches
 
-**Solution**: 
+**Solution**: i went to review the slide and watch some video
 
-**Time spent**: 
+**Time spent**: maybe 2 hours
 
 ---
 
