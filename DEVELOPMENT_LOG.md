@@ -58,16 +58,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 28, 2026, 2:40 PM]
+**What I did**: link between github and vs code
 
-**Details**: 
+**Details**: first i didn't know how to link them but i watch some videos about how to link between them and how to download the git from the vs code 
 
-**Challenges**: 
+**Challenges**: i takes time to watch the video,and because its something new 
 
-**Solution**: 
+**Solution**: search for shoet video 
 
-**Time spent**: 
+**Time spent**: maybe 1.5 h or 2 h
 
 ---
 
