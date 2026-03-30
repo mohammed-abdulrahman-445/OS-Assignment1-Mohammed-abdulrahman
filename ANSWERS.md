@@ -58,15 +58,15 @@ Example from my output:
 
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [When is P1 in New state? after new thread is called addProcessToQueue(),object is created befor start ]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [When does P1 become Runnable?when current Thread.start() is called in scheduling loop, and ready queue and is ready to be scheduled by the CPU ]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [When is P1 Running? when os scheduler select and executing run() method and calculating runtime]
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [When/why would P1 be Waiting?when Thread.sleep is called during work process ,and when the main thread waits currentThread.join() to complete]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [When is P1 Terminated?when the run() method returns normal after comleting and add runToCompletion.]
 
 ---
 
