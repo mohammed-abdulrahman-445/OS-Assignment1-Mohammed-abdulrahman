@@ -445,16 +445,16 @@ These questions help you demonstrate technical understanding. Each answer should
 
 ### What to Submit on Blackboard:
 
-Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
+Submit a **text file** named: `Mohammed_445050228_Assignment1.txt`
 
 **The file should contain:**
 ```
-Student Name: [Your Full Name]
-Student ID: [Your Student ID]
-GitHub Username: [your-github-username]
-Repository Link: https://github.com/[your-username]/OS-Assignment1-[YourName]
-Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
-Date Submitted: [Submission Date]
+Student Name: [Mohammed abdulrahman khal]
+Student ID: [445050228]
+GitHub Username: [mohammed-abdulrahman-445]
+Repository Link: https: https://github.com/mohammed-abdulrahman-445/OS-Assignment1-Mohammed-abdulrahman.git
+Video Link: https://drive.google.com/file/d/14R3VeI0orgKmyPMzYfRaHAlPsdrWo8MA/view?usp=drive_link
+Date Submitted: March 30 , 2026
 ```
 
 **Example:**
