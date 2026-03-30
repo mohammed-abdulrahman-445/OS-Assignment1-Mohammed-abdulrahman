@@ -23,15 +23,30 @@ Creation Overhead and Speed: Creating threads is faster and uses less memory tha
 
 **Your Answer:**
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
+[In Round-Robin scheduling,each process given fixed time quantum and is max of CPU,if process doesn't finish its allocated time quantum and placed at the end of ready queue]
 
 Example from my output:
 ```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
+[  ? P1 executing quantum [3000ms] 
+  ? Quantum progress: [???????????????] 100%
+  ? P1 completed quantum 3000ms ? Overall progress: [????????????????????] 60%
+     Remaining time: 1958ms
+  ? P1 yields CPU for context switch
+
+  ? P1 (Priority: 1) added to ready queue ?]
 ```
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
+[ ? P1 executing quantum [3000ms] 
+  ? Quantum progress: [???????????????] 100%
+  ? P1 completed quantum 3000ms ? Overall progress: [????????????????????] 60%
+     Remaining time: 1958ms
+  ? P1 yields CPU for context switch
+
+  ? P1 (Priority: 1) added to ready queue ?]
+
+  Why re-queueing is important:
+ It makes sure no single process keeps the CPU all to itself
 
 ---
 
