@@ -17,7 +17,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+[The most challenging part of this assignment was understanding how to calculate the waiting time, because processes keep returning to the ready queue, and there something else is how understanding the thread work together with queue ]
 
 ---
 
