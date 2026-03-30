@@ -9,7 +9,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+[i learnd the basics of multithreading , and each process runs diffrint thread, i used Thread.start() to run thread ,and Thread.join() to control exection,the assignment helpe me understand multithreading ]
 
 ---
 
