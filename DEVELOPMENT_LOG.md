@@ -33,7 +33,7 @@ Document your development process as you work on the assignment. Add entries sho
 ## Your Development Log:
 
 ### Entry 1 - [March 28, 2026, 2:18 PM]
-**What I did**: i added counter to track the number of context switches
+**What I did**: implement feature 2
 
 **Details**: i added counter to track the number of context switches,the counter increases each time new process start exection
 
@@ -71,29 +71,29 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [March 30, 2026, 3:55 PM]
+**What I did**: implement feature 1 process priority 
 
-**Details**: 
+**Details**: i added priority to the process and generated random values between 1and 5
 
-**Challenges**: 
+**Challenges**: i didn't know how i can add priority and display without affecting  in the output format 
 
-**Solution**: 
+**Solution**: I added the priority variable inside the Process addProcessToQueue()
 
-**Time spent**: 
+**Time spent**: maybe 1h or 2
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [March 30, 2026, 4:02 PM]
+**What I did**: implement feature 3
 
-**Details**: 
+**Details**: I added fields to track arrival time and total waiting time for each process
 
-**Challenges**: 
+**Challenges**: Calculating waiting time is hard 
 
-**Solution**: 
+**Solution**: I updated the arrival time after each execution
 
-**Time spent**: 
+**Time spent**: 2 h or 2.5 h
 
 ---
 
@@ -112,10 +112,10 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [6 days ]
 
-**Most challenging part**: 
+**Most challenging part**:writing the feature and calcuation waiting time  
 
-**Most interesting learning**: 
+**Most interesting learning**: Round Robin scheduling allows processes to share CPU time
 
-**What I would do differently next time**: 
+**What I would do differently next time**: Next time I would spend more time planning the implementation before writing the code
