@@ -91,7 +91,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Challenges**: Calculating waiting time is hard 
 
-**Solution**: I updated the arrival time after each execution
+**Solution**: I updated the arrival time  after each execution
 
 **Time spent**: 2 h or 2.5 h
 
