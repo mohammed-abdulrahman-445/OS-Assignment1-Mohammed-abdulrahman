@@ -80,7 +80,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Solution**: I added the priority variable inside the Process addProcessToQueue()
 
-**Time spent**: maybe 1h or 2
+**Time spent**: maybe 1h or 2.5
 
 ---
 
