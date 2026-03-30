@@ -32,7 +32,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+[like Google Chrome or Firefox use multithreading to handle multiple tabs at the same time. Each tab often runs in its own thread]
 
 ---
 
