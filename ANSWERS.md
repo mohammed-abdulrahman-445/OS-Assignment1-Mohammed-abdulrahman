@@ -76,30 +76,24 @@ Example from my output:
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [In a video game]
 
 **Description**: 
-[Describe the real-world scenario or application]
-
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
-
-### Example 2: [Name of application/scenario]
+In a video game, like  Minecraft, the game engine runs multiple tasks simultaneously: rendering graphics, processing player input, updating AI, and handling network events. Each task can be managed by a separate thread. Using Round-Robin scheduling ensures that no single task dominates the CPU
+### Example 2: [media player]
 
 **Description**: 
-[Describe the real-world scenario or application]
-
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
-
+In a media player, like  Spotify, multiple tasks run at the same time: decoding audio, decoding video, buffering data from the network, and updating the user interface. Each task can run in its own thread. Using Round-Robin scheduling ensures that no single task
 ---
 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1. different  between thread and process 
+2. the round robin and time quantum
+3. therad lifecycle and move through different state
 
 **Concepts I need to study more:**
 1. 
