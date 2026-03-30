@@ -23,9 +23,8 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Question 3: How did you overcome the challenges you faced?
 
-**Your Answer:**
-
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+**Your Answer:*
+[i referred to my lecture and Operating Systems book to understand , and some video in youtube , and i ask some friend in the class about something i dont understand ]
 
 ---
 
