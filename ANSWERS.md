@@ -11,7 +11,9 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[Write your answer here. Consider: What is a process? What is a thread? How do they differ in terms of memory, resources, creation overhead? Why are threads more suitable for this simulation?]
+[process is independent program that has own memory space. thread is unit of execution withn process ,it has own program counter, in SchedulerSimulation.java each process run inside diffrent thread. differences between process and thread 
+memory sharing:thread withn the same process share memory,process have separate memory spaces ,that make thread shared easily.
+Creation Overhead and Speed: Creating threads is faster and uses less memory than creating separate processes.]
 
 ---
 
